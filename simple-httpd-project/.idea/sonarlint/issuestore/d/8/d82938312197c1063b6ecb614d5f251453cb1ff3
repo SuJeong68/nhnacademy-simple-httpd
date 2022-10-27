@@ -1,0 +1,25 @@
+
+`	java:S112{"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+i
+java:S1192A"NDefine a constant instead of duplicating this literal "403 Forbidden" 4 times.(Ö§‹Ñıÿÿÿÿ
+]
+java:S1226¬"AIntroduce a new variable instead of reusing the parameter "line".(íÕŒ¦øÿÿÿÿ
+X
+java:S2259U"BA "NullPointerException" could be thrown; "line" is nullable here.(ñÃÕ 
+d
+java:S2095Š"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¦Îİÿÿÿÿÿ
+d
+java:S2095ª"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ú×ÃËøÿÿÿÿ
+‡
+java:S1130"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ßàó†
+h
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(“–ış
+U
+java:S1612Z":Replace this lambda with method reference 'File::getName'.(êºû¤ÿÿÿÿÿ
+B
+java:S1125\"'Remove the unnecessary boolean literal.(ô…õàşÿÿÿÿ
+i
+java:S4042k"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ
+]	java:S899§"BDo something with the "boolean" value returned by "createNewFile".(ÖàÖ¸ûÿÿÿÿ
+>
+java:S1125¯"'Remove the unnecessary boolean literal.(ÎÖï¯
